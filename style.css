@@ -1,0 +1,200 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+h1{
+color: blue;    
+}
+body{
+    background-color:black;
+}
+.name{
+    color: burlywood;
+    margin: 20px;
+    box-sizing: border-box;
+    font-weight: 600;
+    
+}
+.pr{
+    color: burlywood;
+    margin: 20px;
+    box-sizing: border-box;
+}
+.name1{
+    color: beige;
+    opacity: 50%;
+    width: 80%;
+}
+.dis{
+    color: beige;
+    4argin: 20px;
+    opacity: 50%;
+    width: 50%;
+}
+.tou{
+    background-color: black;
+    color: beige;
+    border: outset;
+    border-color: chocolate;
+    margin-left: 20px;
+    padding: 12px;
+    margin: 20px;
+    text-align: center;
+}
+.maindiv{
+    display: flex;
+    width: fit-content;
+}
+.leftdiv{
+    width: 20%;
+}
+.rightdiv{
+    width: 50%;
+    height: 40%;
+    float: inherit;
+    
+}
+.image1{
+    height: 250px;
+    width: 200px;
+    margin-right: 20px;
+}
+.name2{
+    color: burlywood;
+    font-weight: 600;
+}
+.project{
+    display: flex;
+    border: 2px solid burlywood;
+}
+.lpro{
+    width: 33%;
+}
+.mpro{
+    width: 33%;
+}
+.rpro{
+    width: 33%;
+} 
+.header{
+    display: flex;
+}
+.header1{
+    width: 60%;
+}
+.header2{
+    width: 20%;
+}
+.header3{
+    width: 20%;
+}
+nav {
+    background-color: chocolate;
+    overflow: hidden;
+}
+
+nav a {
+    float: right;
+    display: block;
+    color: beige;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+.name4{
+    color: burlywood;
+    
+}.project.lpro.name2{
+    margin-left: 20px;
+}
+.ex{
+    margin-top: 40px;
+    border: wheat 2PX solid;
+}
+.tag{
+    color:#556B2F;
+    margin:40px;
+}
+.tag1{
+    margin: 20px;
+    font-weight: bolder;
+    font-size: larger;
+}
+.pro6{
+display: flex;
+flex-wrap: wrap;  
+}
+.proj1{
+    color: beige;
+    opacity: 50%;
+    width: 25%;
+    border: wheat 2PX solid;
+    margin: 30PX;
+}
+.proj2{
+    color: beige;
+    opacity: 50%;
+    width: 25%;
+    border: wheat 2PX solid;
+    margin: 30PX;
+}
+.proj3{
+    color: beige;
+    opacity: 50%;
+    width: 25%;
+    border: wheat 2PX solid;
+    margin: 30PX;
+}
+.proj4{
+    color: beige;
+    opacity: 50%;
+    width: 25%;
+    border: wheat 2PX solid;
+    margin: 30PX;
+}
+.proj5{
+    color: beige;
+    opacity: 50%;
+    width: 25%;
+    border: wheat 2PX solid;
+    margin: 30PX;
+}
+.proj6{
+    color: beige;
+    opacity: 50%;
+    width: 25%;
+    border: wheat 2PX solid;
+    margin: 30PX;
+}.name5{
+    color: burlywood;
+    margin: 20px;
+    box-sizing: border-box;
+    font-weight: 600;
+    text-align: center;
+    
+}
+.hello{
+    margin-bottom: 100px;
+}
+.tou1{
+    background-color: black;
+    color: beige;
+    border: outset;
+    border-color: chocolate;
+    margin-left: 20px;
+    padding: 12px;
+    margin: 20px;
+    text-align: center;
+    justify-self: center;
+       
+}
+.nav1{
+    float: left;
+    color: antiquewhite;
+}
